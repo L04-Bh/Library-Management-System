@@ -26,6 +26,4 @@ A lightweight, high-performance command-line Library Management System built wit
 ```text
 
 ├── Main.java          # Application entry point, CLI loops, and file persistence handlers
-├── Library.java       # Base class managing total penalty state tracking
-├── Book.java          # Domain model for catalog items with parsing/serialization logic
 └── books.txt          # Persistent data file (Auto-generated on first run)
