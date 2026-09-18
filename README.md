@@ -1,5 +1,10 @@
 # Library Management System
 
+**Author Information**
+* **Name:** Lakshya Bhardwaj
+* **Registration No.:** 24BEC10118
+* **Course:** Programming in Java
+
 A lightweight, high-performance command-line Library Management System built with Java 17. The application manages inventory cataloging, member transactions, fine calculations, and persistent file storage without requiring external database server dependencies.
 
 ---
