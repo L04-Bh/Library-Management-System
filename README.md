@@ -5,7 +5,11 @@
 * **Registration No.:** 24BEC10118
 * **Course:** Programming in Java
 
-A lightweight, high-performance command-line Library Management System built with Java 17. The application manages inventory cataloging, member transactions, fine calculations, and persistent file storage without requiring external database server dependencies.
+---
+
+## Overview
+
+The **Library Management System** is a lightweight, zero-configuration command-line application engineered in Java 17. Designed for educational resource centers and academic libraries, the system automates core library administrative workflows—including catalog tracking, member loan transactions, overdue fine calculations, and persistent flat-file storage—without requiring external database management systems or complex server setups.
 
 ---
 
