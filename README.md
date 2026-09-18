@@ -34,5 +34,9 @@ The **Library Management System** is a lightweight, zero-configuration command-l
 
 ```text
 
-├── Main.java          # Application entry point, CLI loops, and file persistence handlers
-└── books.txt          # Persistent data file (Auto-generated on first run)
+.
+├── Library-management-system/
+│   ├── Main.java          # Core application source code
+│   └── books.txt          # Persistent data storage file
+├── README.md              # Project documentation
+└── statement.md           # Problem statement and project scope
